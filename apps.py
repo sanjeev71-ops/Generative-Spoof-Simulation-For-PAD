@@ -13,7 +13,8 @@ import pandas as pd
 # CONFIG
 # =========================================
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-MODEL_PATH = r"D:\majorML\pad_demo\finetuned_model.pth"
+BASE_DIR = os.path.dirname(__file__)
+MODEL_PATH = os.path.join(BASE_DIR, "models", "finetuned_model.pth")
 
 # =========================================
 # TRANSFORM
