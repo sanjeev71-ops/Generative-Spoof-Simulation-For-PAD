@@ -136,7 +136,7 @@ Future Improvements
 Authors
  
 * Sanjeev Swain
-* Chinmayee Sahoo
+* Chinmaya Sahu
 
 ---
 
