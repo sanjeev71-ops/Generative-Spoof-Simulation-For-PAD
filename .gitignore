@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+ml_gpu/
+venv/
+.env/
+
+# Dataset folders
+Anti-Spoofing Dataset, 30,000 sets/
+dataset_final/
+dataset_split/
+FaceForensics++_C23/
+finetune_data/
+
+# OS junk
+.DS_Store
+Thumbs.db
