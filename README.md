@@ -143,3 +143,7 @@ Authors
 ## 📄 License
 
 This project is for academic purposes.
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for vulnerability reporting.
